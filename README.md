@@ -72,4 +72,3 @@ A prática demonstrou que vulnerabilidades de autenticação são frequentemente
 
 1. Os comandos detalhados podem ser reproduzidos em ambiente `libvirt`.
 2. Consulte a pasta `/wordlists` para os arquivos de dicionário utilizados.
-3. Confira os logs de execução na pasta `/logs`.
